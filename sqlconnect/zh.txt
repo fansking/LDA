@@ -1,0 +1,3704 @@
+GF2 PMS1 GF2 L1 4 NDI  浙江省 丽水市 松阳县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 丽水市 莲都区
+GF2 PMS2 GF2 L1 15 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 16 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 9 NDI  浙江省 金华市 武义县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 金华市 婺城区
+GF2 PMS2 GF2 L1 3 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 松阳县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 杭州市 桐庐县
+GF2 PMS1 GF2 L1 6 NDI  浙江省 金华市 浦江县
+GF2 PMS1 GF2 L1 6 NDI  浙江省 金华市 兰溪市
+GF2 PMS2 GF2 L1 4 NDI  浙江省 金华市 浦江县
+GF2 PMS2 GF2 L1 7 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 4 NDI  浙江省 金华市 义乌市
+GF1 PMS2 GF1 L1 1 NDI  浙江省 衢州市 龙游县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 金华市 婺城区
+GF1 PMS2 GF1 L1 1 NDI  浙江省 衢州市 龙游县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 金华市 婺城区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 仙居县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 仙居县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 永嘉县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 嵊州市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS1 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 瓯海区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 绍兴市 上虞市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 嘉兴市 海盐县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 磐安县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 平阳县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 瑞安市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS1 GF2 L1 1 NDI  福建省 宁德市 福鼎市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 仙居县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 仙居县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 嵊州市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 杭州市 富阳市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 杭州市 富阳市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 西湖区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 西湖区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 富阳市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 2 NDI  浙江省 嘉兴市 桐乡市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 绍兴市 绍兴县
+GF2 PMS2 GF2 L1 5 NDI  浙江省 杭州市 萧山区
+GF2 PMS2 GF2 L1 1 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 3 NDI  浙江省 金华市 东阳市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 金华市 义乌市
+GF2 PMS2 GF2 L1 7 NDI  浙江省 丽水市 缙云县
+GF2 PMS2 GF2 L1 14 NDI  浙江省 温州市 文成县
+GF2 PMS2 GF2 L1 14 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 丽水市 青田县
+GF2 PMS2 GF2 L1 8 NDI  浙江省 丽水市 青田县
+GF2 PMS2 GF2 L1 6 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 3 NDI  福建省 宁德市 福安市
+GF2 PMS2 GF2 L1 6 NDI  浙江省 温州市 泰顺县
+GF2 PMS1 GF2 L1 10 NDI  江苏省 苏州市 吴江区
+GF2 PMS1 GF2 L1 7 NDI  江苏省 苏州市 吴江区
+GF2 PMS1 GF2 L1 3 NDI  浙江省 嘉兴市 桐乡市
+GF2 PMS1 GF2 L1 4 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 杭州市 江干区
+GF2 PMS1 GF2 L1 3 NDI  浙江省 杭州市 萧山区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 金华市 永康市
+GF2 PMS1 GF2 L1 2 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 4 NDI  浙江省 丽水市 莲都区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 丽水市 莲都区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 丽水市 莲都区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 丽水市 莲都区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS1 GF2 L1 1 NDI  福建省 宁德市 寿宁县
+GF2 PMS1 GF2 L1 1 NDI  福建省 宁德市 寿宁县
+GF2 PMS2 GF2 L1 12 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 6 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 9 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 12 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS2 GF2 L1 6 NDI  浙江省 杭州市 萧山区
+GF2 PMS2 GF2 L1 4 NDI  浙江省 绍兴市 绍兴县
+GF2 PMS2 GF2 L1 4 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 18 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 26 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 9 NDI  浙江省 金华市 东阳市
+GF2 PMS2 GF2 L1 3 NDI  浙江省 金华市 永康市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 金华市 东阳市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 金华市 永康市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 丽水市 缙云县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 丽水市 青田县
+GF2 PMS2 GF2 L1 5 NDI  浙江省 丽水市 青田县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 温州市 文成县
+GF2 PMS1 GF2 L1 11 NDI  安徽省 黄山市 歙县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 4 NDI  江西省 上饶市 玉山县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 0 NDI  江西省 上饶市 玉山县
+GF2 PMS2 GF2 L1 5 NDI  安徽省 宣城市 宁国市
+GF2 PMS2 GF2 L1 22 NDI  安徽省 黄山市 歙县
+GF2 PMS2 GF2 L1 7 NDI  安徽省 黄山市 歙县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 杭州市 淳安县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 杭州市 淳安县
+GF2 PMS2 GF2 L1 22 NDI  安徽省 宣城市 绩溪县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 衢州市 开化县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 杭州市 淳安县
+GF2 PMS2 GF2 L1 4 NDI  浙江省 衢州市 常山县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 衢州市 江山市
+GF2 PMS2 GF2 L1 13 NDI  江西省 上饶市 广丰县
+GF2 PMS2 GF2 L1 5 NDI  浙江省 衢州市 江山市
+GF2 PMS2 GF2 L1 1 NDI  江西省 上饶市 广丰县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 4 NDI  江西省 上饶市 玉山县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 衢州市 江山市
+GF2 PMS2 GF2 L1 13 NDI  江西省 上饶市 广丰县
+GF2 PMS1 GF2 L1 7 NDI  浙江省 湖州市 长兴县
+GF2 PMS1 GF2 L1 32 NDI  浙江省 丽水市 松阳县
+GF2 PMS2 GF2 L1 6 NDI  浙江省 丽水市 松阳县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 文成县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 平阳县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 平阳县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 0 NDI  福建省 宁德市 福鼎市
+GF2 PMS1 GF2 L1 0 NDI  福建省 宁德市 柘荣县
+GF2 PMS1 GF2 L1 6 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 舟山市 岱山县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 13 NDI  浙江省 宁波市 慈溪市
+GF2 PMS1 GF2 L1 22 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS1 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS2 GF2 L1 14 NDI  浙江省 宁波市 奉化市
+GF2 PMS1 GF2 L1 16 NDI  浙江省 宁波市 奉化市
+GF2 PMS1 GF2 L1 1 NDI  浙江省 绍兴市 新昌县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 宁波市 宁海县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 11 NDI  浙江省 宁波市 宁海县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 8 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 5 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 4 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 2 NDI  浙江省 台州市 黄岩区
+GF2 PMS2 GF2 L1 3 NDI  浙江省 台州市 黄岩区
+GF2 PMS1 GF2 L1 7 NDI  浙江省 台州市 黄岩区
+GF1 PMS1 GF1 L1 17 NDI  江苏省 苏州市 吴江区
+GF1 PMS2 GF1 L1 17 NDI  浙江省 嘉兴市 平湖市
+GF1 PMS2 GF1 L1 15 NDI  上海市 上海市 松江区
+GF1 PMS2 GF1 L1 25 NDI  浙江省 嘉兴市 海盐县
+GF1 PMS1 GF1 L1 22 NDI  浙江省 丽水市 缙云县
+GF1 PMS1 GF1 L1 34 NDI  浙江省 丽水市 莲都区
+GF1 PMS1 GF1 L1 8 NDI  福建省 南平市 浦城县
+GF1 PMS1 GF1 L1 3 NDI  福建省 南平市 浦城县
+GF1 PMS1 GF1 L1 26 NDI  福建省 南平市 政和县
+GF1 PMS1 GF1 L1 35 NDI  浙江省 丽水市 松阳县
+GF1 PMS2 GF1 L1 33 NDI  浙江省 金华市 东阳市
+GF1 PMS2 GF1 L1 7 NDI  浙江省 丽水市 遂昌县
+GF1 PMS2 GF1 L1 8 NDI  浙江省 丽水市 庆元县
+GF1 PMS2 GF1 L1 10 NDI  浙江省 丽水市 龙泉市
+GF1 PMS2 GF1 L1 5 NDI  福建省 南平市 政和县
+GF1 PMS2 GF1 L1 37 NDI  浙江省 金华市 武义县
+GF1 PMS2 GF1 L1 16 NDI  浙江省 丽水市 云和县
+GF1 PMS2 GF1 L1 20 NDI  浙江省 丽水市 松阳县
+GF1 PMS2 GF1 L1 10 NDI  浙江省 丽水市 云和县
+GF1 PMS2 GF1 L1 20 NDI  浙江省 丽水市 庆元县
+GF1 PMS1 GF1 L1 19 NDI  浙江省 嘉兴市 秀洲区
+GF1 PMS1 GF1 L1 5 NDI  安徽省 宣城市 广德县
+GF1 PMS1 GF1 L1 4 NDI  安徽省 宣城市 广德县
+GF1 PMS1 GF1 L1 6 NDI  浙江省 杭州市 临安市
+GF1 PMS1 GF1 L1 5 NDI  浙江省 湖州市 安吉县
+GF1 PMS2 GF1 L1 13 NDI  安徽省 宣城市 广德县
+GF1 PMS2 GF1 L1 26 NDI  江苏省 无锡市 宜兴市
+GF1 PMS2 GF1 L1 6 NDI  安徽省 宣城市 广德县
+GF1 PMS2 GF1 L1 13 NDI  浙江省 湖州市 安吉县
+GF1 PMS2 GF1 L1 12 NDI  浙江省 湖州市 长兴县
+GF1 PMS2 GF1 L1 25 NDI  江苏省 无锡市 宜兴市
+GF1 PMS2 GF1 L1 8 NDI  浙江省 湖州市 安吉县
+GF1 PMS2 GF1 L1 29 NDI  浙江省 湖州市 南浔区
+GF1 PMS2 GF1 L1 40 NDI  江苏省 苏州市 吴中区
+GF1 PMS1 GF1 L1 7 NDI  浙江省 衢州市 衢江区
+GF1 PMS1 GF1 L1 7 NDI  浙江省 衢州市 衢江区
+GF1 PMS1 GF1 L1 30 NDI  浙江省 金华市 婺城区
+GF1 PMS1 GF1 L1 38 NDI  浙江省 衢州市 龙游县
+GF1 PMS1 GF1 L1 38 NDI  浙江省 丽水市 遂昌县
+GF1 PMS1 GF1 L1 18 NDI  江西省 上饶市 德兴市
+GF1 PMS2 GF1 L1 25 NDI  浙江省 衢州市 开化县
+GF1 PMS2 GF1 L1 28 NDI  安徽省 黄山市 歙县
+GF1 PMS2 GF1 L1 20 NDI  江西省 上饶市 玉山县
+GF1 PMS2 GF1 L1 26 NDI  浙江省 衢州市 开化县
+GF1 PMS2 GF1 L1 26 NDI  浙江省 杭州市 淳安县
+GF1 PMS2 GF1 L1 16 NDI  浙江省 衢州市 常山县
+GF1 PMS2 GF1 L1 10 NDI  浙江省 衢州市 江山市
+GF1 PMS2 GF1 L1 6 NDI  浙江省 衢州市 江山市
+GF1 PMS2 GF1 L1 7 NDI  福建省 南平市 浦城县
+GF1 PMS2 GF1 L1 5 NDI  浙江省 金华市 兰溪市
+GF1 PMS2 GF1 L1 6 NDI  浙江省 金华市 婺城区
+GF1 PMS2 GF1 L1 37 NDI  浙江省 衢州市 江山市
+GF1 PMS2 GF1 L1 36 NDI  江西省 上饶市 广丰县
+GF1 PMS2 GF1 L1 38 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 16 NDI  浙江省 宁波市 奉化市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 宁波市 慈溪市
+GF2 PMS1 GF2 L1 22 NDI  浙江省 宁波市 余姚市
+GF2 PMS1 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS1 GF2 L1 3 NDI  浙江省 宁波市 慈溪市
+GF2 PMS1 GF2 L1 1 NDI  浙江省 绍兴市 新昌县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 台州市 天台县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 2 NDI  浙江省 台州市 黄岩区
+GF2 PMS1 GF2 L1 7 NDI  浙江省 台州市 黄岩区
+GF2 PMS1 GF2 L1 12 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 17 NDI  浙江省 温州市 永嘉县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 舟山市 岱山县
+GF2 PMS2 GF2 L1 13 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS2 GF2 L1 3 NDI  浙江省 台州市 黄岩区
+GF2 PMS2 GF2 L1 14 NDI  浙江省 宁波市 奉化市
+GF2 PMS2 GF2 L1 11 NDI  浙江省 宁波市 宁海县
+GF2 PMS2 GF2 L1 11 NDI  浙江省 温州市 乐清市
+GF2 PMS2 GF2 L1 10 NDI  浙江省 宁波市 宁海县
+GF2 PMS2 GF2 L1 4 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 8 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 10 NDI  浙江省 温州市 乐清市
+GF2 PMS2 GF2 L1 30 NDI  浙江省 温州市 龙湾区
+GF2 PMS2 GF2 L1 24 NDI  浙江省 温州市 乐清市
+GF1 PMS1 GF1 L1 19 NDI  浙江省 嘉兴市 秀洲区
+GF1 PMS1 GF1 L1 17 NDI  江苏省 苏州市 吴江区
+GF1 PMS2 GF1 L1 17 NDI  浙江省 嘉兴市 平湖市
+GF1 PMS2 GF1 L1 15 NDI  上海市 上海市 松江区
+GF1 PMS2 GF1 L1 25 NDI  浙江省 嘉兴市 海盐县
+ZY02C PMS ZY02C L1 1 NDI  浙江省 衢州市 江山市
+ZY02C PMS ZY02C L1 4 NDI  福建省 南平市 浦城县
+ZY02C PMS ZY02C L1 1 NDI  浙江省 丽水市 庆元县
+ZY02C PMS ZY02C L1 0 NDI  福建省 宁德市 寿宁县
+ZY02C PMS ZY02C L1 0 NDI  浙江省 丽水市 景宁畲族自治县
+ZY02C PMS ZY02C L1 0 NDI  浙江省 丽水市 云和县
+ZY3 TLC ZY3 L1 4 NDI  浙江省 衢州市 衢江区
+ZY3 MUX ZY3 L1 3 NDI  福建省 南平市 浦城县
+ZY3 MUX ZY3 L1 1 NDI  浙江省 丽水市 遂昌县
+ZY3 TLC ZY3 L1 15 NDI  福建省 南平市 浦城县
+ZY3 TLC ZY3 L1 0 NDI  江西省 上饶市 德兴市
+ZY3 TLC ZY3 L1 25 NDI  江西省 上饶市 德兴市
+ZY3 MUX ZY3 L1 0 NDI  浙江省 杭州市 临安市
+ZY3 MUX ZY3 L1 0 NDI  江苏省 苏州市 吴中区
+ZY3 MUX ZY3 L1 0 NDI  浙江省 湖州市 吴兴区
+ZY3 MUX ZY3 L1 0 NDI  浙江省 杭州市 临安市
+ZY3 MUX ZY3 L1 3 NDI  江苏省 苏州市 吴中区
+ZY3 MUX ZY3 L1 2 NDI  浙江省 湖州市 南浔区
+ZY3 MUX ZY3 L1 9 NDI  浙江省 杭州市 西湖区
+ZY3 MUX ZY3 L1 1 NDI  江苏省 苏州市 吴中区
+ZY3 MUX ZY3 L1 0 NDI  浙江省 嘉兴市 桐乡市
+ZY3 MUX ZY3 L1 0 NDI  浙江省 杭州市 江干区
+ZY3 TLC ZY3 L1 0 NDI  安徽省 宣城市 广德县
+ZY3 TLC ZY3 L1 7 NDI  浙江省 杭州市 临安市
+ZY3 TLC ZY3 L1 0 NDI  安徽省 宣城市 广德县
+ZY3 TLC ZY3 L1 0 NDI  浙江省 杭州市 临安市
+ZY3 TLC ZY3 L1 0 NDI  江苏省 苏州市 吴中区
+ZY3 TLC ZY3 L1 0 NDI  浙江省 湖州市 吴兴区
+ZY3 TLC ZY3 L1 0 NDI  浙江省 杭州市 临安市
+ZY3 TLC ZY3 L1 3 NDI  江苏省 苏州市 吴中区
+ZY3 TLC ZY3 L1 3 NDI  浙江省 湖州市 德清县
+ZY3 TLC ZY3 L1 9 NDI  浙江省 杭州市 西湖区
+GF1 PMS1 GF1 L1 7 NDI  浙江省 舟山市 定海区
+GF1 PMS1 GF1 L1 6 NDI  浙江省 台州市 天台县
+GF1 PMS1 GF1 L1 21 NDI  浙江省 绍兴市 新昌县
+GF1 PMS1 GF1 L1 34 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 39 NDI  浙江省 宁波市 北仑区
+GF1 PMS1 GF1 L1 28 NDI  浙江省 宁波市 鄞州区
+GF1 PMS1 GF1 L1 25 NDI  浙江省 宁波市 宁海县
+GF1 PMS1 GF1 L1 29 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 26 NDI  浙江省 宁波市 宁海县
+GF1 PMS1 GF1 L1 28 NDI  浙江省 宁波市 奉化市
+GF1 PMS1 GF1 L1 30 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 26 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 40 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 33 NDI  浙江省 舟山市 普陀区
+GF1 PMS1 GF1 L1 10 NDI  浙江省 宁波市 象山县
+GF1 PMS2 GF1 L1 13 NDI  浙江省 宁波市 奉化市
+GF1 PMS2 GF1 L1 18 NDI  浙江省 宁波市 北仑区
+GF1 PMS2 GF1 L1 10 NDI  浙江省 宁波市 宁海县
+GF1 PMS2 GF1 L1 15 NDI  浙江省 台州市 三门县
+GF1 PMS2 GF1 L1 31 NDI  浙江省 绍兴市 嵊州市
+GF1 PMS2 GF1 L1 25 NDI  浙江省 嘉兴市 海盐县
+GF1 PMS2 GF1 L1 33 NDI  浙江省 宁波市 象山县
+GF1 PMS2 GF1 L1 38 NDI  浙江省 舟山市 普陀区
+GF1 PMS2 GF1 L1 16 NDI  浙江省 宁波市 象山县
+GF1 PMS2 GF1 L1 38 NDI  浙江省 宁波市 象山县
+GF1 PMS2 GF1 L1 67 NDI  浙江省 宁波市 象山县
+GF1 PMS1 GF1 L1 19 NDI  浙江省 舟山市 定海区
+GF1 PMS2 GF1 L1 38 NDI  浙江省 宁波市 北仑区
+ZY3 TLC ZY3 L1 14 NDI  浙江省 温州市 洞头县
+ZY3 TLC ZY3 L1 9 NDI  浙江省 温州市 乐清市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 台州市 温岭市
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 PMS1 GF1 L1 39 NDI  浙江省 宁波市 北仑区
+GF1 PMS2 GF1 L1 38 NDI  浙江省 舟山市 普陀区
+GF1 PMS1 GF1 L1 7 NDI  浙江省 舟山市 定海区
+ZY3 TLC ZY3 L1 2 NDI  浙江省 宁波市 慈溪市
+GF1 WFV2 GF1 L1 1 NDI  上海市 上海市 奉贤区
+GF1 WFV3 GF1 L1 1 NDI  安徽省 宣城市 泾县
+GF1 WFV1 GF1 L1 1 NDI  江苏省 无锡市 宜兴市
+GF1 WFV1 GF1 L1 0 NDI  江苏省 常州市 溧阳市
+GF1 WFV1 GF1 L1 0 NDI  安徽省 宣城市 郎溪县
+GF1 WFV4 GF1 L1 0 NDI  江苏省 常州市 金坛市
+GF1 WFV4 GF1 L1 0 NDI  江苏省 常州市 金坛市
+GF1 WFV4 GF1 L1 0 NDI  江苏省 无锡市 锡山区
+GF1 WFV3 GF1 L1 0 NDI  浙江省 湖州市 德清县
+GF1 WFV2 GF1 L1 0 NDI  安徽省 铜陵市 铜陵县
+GF1 WFV3 GF1 L1 0 NDI  安徽省 宣城市 宁国市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 杭州市 临安市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 杭州市 临安市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 杭州市 富阳市
+GF1 WFV1 GF1 L1 0 NDI  浙江省 杭州市 淳安县
+GF1 WFV1 GF1 L1 0 NDI  浙江省 杭州市 淳安县
+GF1 WFV1 GF1 L1 0 NDI  浙江省 杭州市 淳安县
+GF1 WFV4 GF1 L1 0 NDI  浙江省 衢州市 江山市
+GF1 WFV4 GF1 L1 0 NDI  江苏省 常州市 武进区
+GF1 WFV4 GF1 L1 0 NDI  安徽省 黄山市 黄山区
+GF1 WFV2 GF1 L1 0 NDI  江西省 上饶市 婺源县
+GF1 WFV1 GF1 L1 0 NDI  福建省 南平市 浦城县
+GF1 WFV3 GF1 L1 0 NDI  浙江省 金华市 婺城区
+GF1 WFV1 GF1 L1 0 NDI  浙江省 丽水市 龙泉市
+GF1 WFV3 GF1 L1 0 NDI  福建省 南平市 政和县
+GF1 WFV3 GF1 L1 0 NDI  浙江省 衢州市 常山县
+GF1 WFV1 GF1 L1 0 NDI  上海市 上海市 崇明县
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 台州市 温岭市
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI  浙江省 温州市 平阳县
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI  浙江省 台州市 天台县
+GF1 WFV2 GF1 L1 0 NDI  浙江省 绍兴市 新昌县
+GF1 WFV2 GF1 L1 0 NDI  浙江省 金华市 东阳市
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 台州市 仙居县
+GF1 WFV2 GF1 L1 0 NDI  上海市 上海市 松江区
+GF1 WFV4 GF1 L1 0 NDI  浙江省 绍兴市 上虞市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 定海区
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 普陀区
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 定海区
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI  浙江省 舟山市 普陀区
+GF1 WFV3 GF1 L1 0 NDI  浙江省 舟山市 嵊泗县
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  安徽省 马鞍山市 和县
+GF2 PMS1 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS2 GF2 L1 20 NDI  浙江省 宁波市 鄞州区
+GF2 PMS1 GF2 L1 17 NDI  浙江省 丽水市 松阳县
+GF2 PMS1 GF2 L1 17 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 17 NDI  浙江省 丽水市 龙泉市
+GF2 PMS1 GF2 L1 16 NDI  浙江省 宁波市 奉化市
+GF2 PMS2 GF2 L1 14 NDI  浙江省 宁波市 奉化市
+GF2 PMS2 GF2 L1 14 NDI  浙江省 衢州市 开化县
+GF2 PMS2 GF2 L1 13 NDI  浙江省 宁波市 慈溪市
+GF2 PMS2 GF2 L1 12 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS1 GF2 L1 12 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 12 NDI  安徽省 黄山市 休宁县
+GF2 PMS2 GF2 L1 11 NDI  浙江省 宁波市 宁海县
+GF2 PMS2 GF2 L1 11 NDI  浙江省 温州市 乐清市
+GF2 PMS2 GF2 L1 11 NDI  安徽省 宣城市 绩溪县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 宁波市 宁海县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 温州市 乐清市
+GF2 PMS1 GF2 L1 10 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 8 NDI  福建省 南平市 政和县
+GF2 PMS2 GF2 L1 8 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 8 NDI  浙江省 金华市 婺城区
+GF2 PMS1 GF2 L1 7 NDI  浙江省 丽水市 龙泉市
+GF2 PMS1 GF2 L1 7 NDI  浙江省 台州市 黄岩区
+GF2 PMS2 GF2 L1 7 NDI  安徽省 黄山市 歙县
+GF2 PMS1 GF2 L1 6 NDI  浙江省 宁波市 慈溪市
+GF2 PMS1 GF2 L1 5 NDI  浙江省 丽水市 庆元县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 5 NDI  浙江省 金华市 武义县
+GF2 PMS2 GF2 L1 4 NDI  浙江省 杭州市 余杭区
+GF2 PMS2 GF2 L1 4 NDI  浙江省 金华市 兰溪市
+GF2 PMS1 GF2 L1 4 NDI  浙江省 金华市 婺城区
+GF2 PMS1 GF2 L1 4 NDI  浙江省 丽水市 庆元县
+GF2 PMS2 GF2 L1 4 NDI  福建省 南平市 政和县
+GF2 PMS2 GF2 L1 4 NDI  浙江省 台州市 临海市
+GF2 PMS1 GF2 L1 4 NDI  浙江省 湖州市 长兴县
+GF2 PMS2 GF2 L1 3 NDI  浙江省 杭州市 淳安县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 杭州市 富阳市
+GF2 PMS1 GF2 L1 3 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 宁波市 慈溪市
+GF2 PMS1 GF2 L1 3 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 3 NDI  浙江省 台州市 黄岩区
+GF2 PMS2 GF2 L1 3 NDI  浙江省 杭州市 淳安县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 杭州市 富阳市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 杭州市 桐庐县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 2 NDI  浙江省 舟山市 岱山县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 金华市 兰溪市
+GF2 PMS1 GF2 L1 2 NDI  浙江省 丽水市 莲都区
+GF2 PMS2 GF2 L1 2 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 丽水市 缙云县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 金华市 永康市
+GF2 PMS1 GF2 L1 2 NDI  浙江省 台州市 黄岩区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 湖州市 德清县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 湖州市 长兴县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 杭州市 临安市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 湖州市 南浔区
+GF2 PMS2 GF2 L1 1 NDI  浙江省 金华市 浦江县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 杭州市 建德市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 杭州市 余杭区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 杭州市 余杭区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 杭州市 临安市
+GF2 PMS1 GF2 L1 1 NDI  浙江省 杭州市 建德市
+GF2 PMS1 GF2 L1 1 NDI  浙江省 丽水市 松阳县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 丽水市 莲都区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 1 NDI  江西省 上饶市 玉山县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 绍兴市 新昌县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 衢州市 开化县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 湖州市 德清县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 常山县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 常山县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 武义县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 金东区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 浦江县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 浦江县
+GF2 PMS2 GF2 L1 0 NDI  江西省 上饶市 广丰县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 永康市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 义乌市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 金东区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 0 NDI  福建省 宁德市 寿宁县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 青田县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 云和县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 义乌市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 松阳县
+GF2 PMS2 GF2 L1 0 NDI  江西省 上饶市 玉山县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS1 GF2 L1 0 NDI  江西省 上饶市 玉山县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 台州市 天台县
+GF2 PMS2 GF2 L1 0 NDI  江苏省 苏州市 吴中区
+GF1 WFV1 GF1 L1 1 NDI    
+GF1 WFV4 GF1 L1 0 NDI  江苏省 常州市 武进区
+GF1 WFV1 GF1 L1 0 NDI  浙江省 丽水市 龙泉市
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI  上海市 上海市 崇明县
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 台州市 温岭市
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI  浙江省 温州市 平阳县
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI  浙江省 台州市 天台县
+GF1 WFV2 GF1 L1 0 NDI  浙江省 绍兴市 新昌县
+GF1 WFV2 GF1 L1 0 NDI  浙江省 金华市 东阳市
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 台州市 仙居县
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI  上海市 上海市 松江区
+GF1 WFV4 GF1 L1 0 NDI  浙江省 绍兴市 上虞市
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 定海区
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 普陀区
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV4 GF1 L1 0 NDI  浙江省 舟山市 定海区
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV1 GF1 L1 0 NDI  浙江省 舟山市 普陀区
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI  浙江省 舟山市 嵊泗县
+GF1 WFV1 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI    
+GF1 WFV2 GF1 L1 0 NDI    
+GF1 WFV3 GF1 L1 0 NDI  江苏省 南通市 通州区
+GF1 WFV4 GF1 L1 0 NDI  浙江省 衢州市 江山市
+GF1 WFV3 GF1 L1 0 NDI  江西省 上饶市 鄱阳县
+GF1 WFV1 GF1 L1 5 NDI  福建省 南平市 浦城县
+GF1 WFV3 GF1 L1 0 NDI  浙江省 衢州市 常山县
+GF1 WFV2 GF1 L1 1 NDI  江西省 上饶市 鄱阳县
+GF1 WFV1 GF1 L1 1 NDI  福建省 南平市 浦城县
+GF1 WFV1 GF1 L1 0 NDI  福建省 南平市 浦城县
+GF1 WFV1 GF1 L1 0 NDI  福建省 三明市 尤溪县
+GF1 WFV1 GF1 L1 0 NDI  福建省 三明市 尤溪县
+GF1 WFV2 GF1 L1 5 NDI  浙江省 杭州市 淳安县
+GF1 WFV1 GF1 L1 0 NDI  江西省 九江市 九江县
+GF1 WFV2 GF1 L1 0 NDI  江西省 上饶市 婺源县
+GF1 WFV3 GF1 L1 0 NDI  浙江省 金华市 婺城区
+GF1 WFV3 GF1 L1 0 NDI  福建省 南平市 政和县
+GF1 WFV2 GF1 L1 0 NDI  福建省 南平市 光泽县
+GF1 WFV3 GF1 L1 0 NDI  福建省 莆田市 仙游县
+GF1 WFV2 GF1 L1 0 NDI  福建省 三明市 清流县
+GF1 WFV4 GF1 L1 0 NDI  江西省 南昌市 新建县
+GF1 WFV4 GF1 L1 5 NDI  江西省 吉安市 泰和县
+GF1 WFV3 GF1 L1 2 NDI  江西省 上饶市 德兴市
+GF1 WFV2 GF1 L1 1 NDI  江西省 九江市 德安县
+GF1 WFV2 GF1 L1 2 NDI  江西省 吉安市 峡江县
+GF1 WFV3 GF1 L1 4 NDI  福建省 南平市 邵武市
+GF1 WFV3 GF1 L1 1 NDI  福建省 龙岩市 连城县
+GF1 WFV1 GF1 L1 5 NDI  福建省 三明市 沙县
+GF1 WFV1 GF1 L1 3 NDI  福建省 福州市 晋安区
+GF1 WFV1 GF1 L1 0 NDI  浙江省 丽水市 龙泉市
+GF1 WFV2 GF1 L1 4 NDI  浙江省 衢州市 开化县
+GF1 WFV1 GF1 L1 3 NDI  江西省 九江市 湖口县
+GF1 WFV1 GF1 L1 3 NDI  江西省 宜春市 丰城市
+GF1 WFV3 GF1 L1 2 NDI  福建省 龙岩市 连城县
+GF2 PMS2 GF2 L1 0 NDI  上海市 上海市 青浦区
+GF2 PMS1 GF2 L1 0 NDI  江苏省 苏州市 吴江区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 嘉善县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 海盐县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 海盐县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 萧山区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 上虞市
+GF2 PMS2 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS1 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS2 GF2 L1 1 NDI  上海市 上海市 金山区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 平湖市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 嘉兴市 海盐县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 宁波市 余姚市
+GF2 PMS2 GF2 L1 28 NDI  江苏省 苏州市 吴江区
+GF2 PMS2 GF2 L1 2 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 2 NDI  浙江省 嘉兴市 桐乡市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 杭州市 萧山区
+GF2 PMS2 GF2 L1 6 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS1 GF2 L1 7 NDI  江苏省 苏州市 吴江区
+GF2 PMS2 GF2 L1 12 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS2 GF2 L1 9 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS1 GF2 L1 3 NDI  浙江省 嘉兴市 桐乡市
+GF2 PMS1 GF2 L1 4 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS2 GF2 L1 12 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 杭州市 江干区
+GF2 PMS2 GF2 L1 30 NDI  江苏省 苏州市 吴江区
+GF2 PMS1 GF2 L1 20 NDI  浙江省 台州市 三门县
+GF2 PMS1 GF2 L1 19 NDI  浙江省 金华市 东阳市
+GF2 PMS1 GF2 L1 16 NDI  浙江省 金华市 磐安县
+GF2 PMS2 GF2 L1 13 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 11 NDI  浙江省 宁波市 鄞州区
+GF2 PMS1 GF2 L1 10 NDI  浙江省 台州市 仙居县
+GF2 PMS1 GF2 L1 7 NDI  浙江省 台州市 仙居县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 2 NDI  浙江省 宁波市 北仑区
+GF2 PMS1 GF2 L1 1 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 舟山市 普陀区
+GF2 PMS2 GF2 L1 1 NDI  浙江省 温州市 永嘉县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 桐庐县
+GF2 PMS2 GF2 L1 0 NDI  安徽省 黄山市 休宁县
+GF2 PMS1 GF2 L1 0 NDI  江西省 上饶市 婺源县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 0 NDI  江西省 上饶市 德兴市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 衢州市 龙游县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 瑞安市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 瑞安市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 瓯海区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 永嘉县
+GF2 PMS2 GF2 L1 0 NDI  福建省 宁德市 福鼎市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 苍南县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 平阳县
+GF2 PMS1 GF2 L1 0 NDI  福建省 宁德市 福鼎市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 平阳县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 宁波市 北仑区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 开化县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 宁波市 北仑区
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 北仑区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 舟山市 普陀区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 宁波市 鄞州区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 宁波市 奉化市
+GF2 PMS2 GF2 L1 1 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 8 NDI  浙江省 台州市 三门县
+GF2 PMS2 GF2 L1 6 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 6 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 台州市 路桥区
+GF2 PMS1 GF2 L1 9 NDI  浙江省 台州市 路桥区
+GF2 PMS2 GF2 L1 3 NDI  浙江省 温州市 文成县
+GF2 PMS2 GF2 L1 2 NDI  浙江省 温州市 泰顺县
+GF2 PMS1 GF2 L1 3 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS1 GF2 L1 0 NDI  福建省 宁德市 福安市
+GF2 PMS2 GF2 L1 0 NDI  福建省 宁德市 柘荣县
+GF2 PMS1 GF2 L1 8 NDI  江苏省 无锡市 宜兴市
+GF2 PMS2 GF2 L1 4 NDI  浙江省 湖州市 长兴县
+GF2 PMS2 GF2 L1 10 NDI  浙江省 湖州市 安吉县
+GF2 PMS2 GF2 L1 6 NDI  浙江省 杭州市 余杭区
+GF2 PMS2 GF2 L1 9 NDI  浙江省 杭州市 临安市
+GF2 PMS1 GF2 L1 7 NDI  浙江省 杭州市 临安市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 杭州市 桐庐县
+GF2 PMS1 GF2 L1 7 NDI  浙江省 衢州市 龙游县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 衢州市 衢江区
+GF2 PMS1 GF2 L1 10 NDI  浙江省 衢州市 衢江区
+GF2 PMS1 GF2 L1 6 NDI  浙江省 衢州市 龙游县
+GF2 PMS1 GF2 L1 5 NDI  浙江省 台州市 临海市
+GF2 PMS2 GF2 L1 8 NDI  浙江省 台州市 温岭市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 台州市 玉环县
+GF2 PMS2 GF2 L1 1 NDI  安徽省 黄山市 休宁县
+GF2 PMS2 GF2 L1 0 NDI  江西省 上饶市 婺源县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 衢州市 开化县
+GF2 PMS2 GF2 L1 0 NDI  江西省 上饶市 德兴市
+GF2 PMS2 GF2 L1 5 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 9 NDI  浙江省 台州市 三门县
+GF2 PMS1 GF2 L1 0 NDI  江苏省 苏州市 吴江区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS1 GF2 L1 0 NDI  江苏省 苏州市 吴江区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 嘉兴市 桐乡市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 秀洲区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 嘉兴市 海宁市
+GF2 PMS1 GF2 L1 0 NDI 
+GF2 PMS2 GF2 L1 0 NDI  浙江省 杭州市 萧山区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 萧山区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 杭州市 萧山区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 绍兴县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 绍兴县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 绍兴市 诸暨市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 义乌市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 东阳市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 义乌市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 东阳市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 永康市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 永康市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 金华市 永康市
+GF2 PMS2 GF2 L1 0 NDI  浙江省 金华市 永康市
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 缙云县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 缙云县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 青田县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 青田县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 莲都区
+GF2 PMS2 GF2 L1 0 NDI  浙江省 丽水市 青田县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 文成县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 丽水市 景宁畲族自治县
+GF2 PMS2 GF2 L1 1 NDI  浙江省 温州市 文成县
+GF2 PMS1 GF2 L1 1 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 6 NDI  浙江省 温州市 泰顺县
+GF2 PMS1 GF2 L1 0 NDI  福建省 宁德市 寿宁县
+GF2 PMS2 GF2 L1 0 NDI  浙江省 温州市 泰顺县
+GF2 PMS2 GF2 L1 0 NDI  福建省 宁德市 柘荣县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 舟山市 定海区
+GF2 PMS1 GF2 L1 2 NDI  浙江省 舟山市 普陀区
+GF2 PMS1 GF2 L1 0 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 0 NDI  浙江省 宁波市 象山县
+GF2 PMS1 GF2 L1 7 NDI  浙江省 丽水市 龙泉市
+GF2 PMS1 GF2 L1 6 NDI  浙江省 丽水市 庆元县
+GF2 PMS2 GF2 L1 3 NDI  浙江省 丽水市 庆元县
+GF2 PMS1 GF2 L1 5 NDI  福建省 南平市 政和县
+GF2 PMS2 GF2 L1 5 NDI  福建省 南平市 政和县
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD2 HJ1B LEVEL2 22 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 NDI    
+HJ1B IRS HJ1B LEVEL2 14 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  Sarawak Song 
+HJ1B IRS HJ1B LEVEL2 6 NDI  Eastern Ahsa 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 8 NDI    
+HJ1B IRS HJ1B LEVEL2 0 NDI  Esfahan Tiran and Karvan 
+HJ1B IRS HJ1B LEVEL2 0 NDI    
+HJ1B IRS HJ1B LEVEL2 67 NDI  Mon Chaungzon 
+HJ1B IRS HJ1B LEVEL2 29 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 11 NDI  Buryatia Republic Pribaykalsky District 
+HJ1B IRS HJ1B LEVEL2 38 NDI  Irkutsk Oblast Mamsko Chuysky District 
+HJ1B IRS HJ1B LEVEL2 8 NDI  Omnogovi Khurmen 
+HJ1B IRS HJ1B LEVEL2 31 NDI  四川省 阿坝藏族羌族自治州 壤塘县
+HJ1B IRS HJ1B LEVEL2 36 NDI  Irkutsk Oblast Kirensky District 
+HJ1B IRS HJ1B LEVEL2 17 NDI  四川省 甘孜藏族自治州 稻城县
+HJ1B IRS HJ1B LEVEL2 20 NDI  甘肃省 武威市 天祝藏族自治县
+HJ1B IRS HJ1B LEVEL2 8 NDI  Tov Altanbulag 
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  Bayan Olgii Rashaant 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Tyva Republic Ovyursky District 
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 91 NDI  Krasnoyarsk Krai Sukhobuzimsky District 
+HJ1B CCD2 HJ1B LEVEL2 15 NDI  新疆维吾尔自治区 昌吉回族自治州 奇台县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  新疆维吾尔自治区 吐鲁番地区 托克逊县
+HJ1B CCD2 HJ1B LEVEL2 72 NDI  Krasnoyarsk Krai Karatuzsky District 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 65 NDI  Kracheh Snuol 
+HJ1B CCD2 HJ1B LEVEL2 38 NDI    
+HJ1B CCD2 HJ1B LEVEL2 33 NDI    
+HJ1B CCD2 HJ1B LEVEL2 77 NDI  Attapu Sanxay 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Kepulauan Riau Batam 
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖南省 张家界市 桑植县
+HJ1B CCD2 HJ1B LEVEL2 14 NDI    
+HJ1B CCD2 HJ1B LEVEL2 17 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  广西壮族自治区 来宾市 忻城县
+HJ1B CCD2 HJ1B LEVEL2 63 NDI  Zabaykalsky Krai Tungokochensky District 
+HJ1B CCD2 HJ1B LEVEL2 56 NDI  贵州省 黔东南苗族侗族自治州 天柱县
+HJ1B CCD2 HJ1B LEVEL2 32 NDI  Dornod Tsagaanders 
+HJ1B CCD2 HJ1B LEVEL2 73 NDI  湖北省 十堰市 郧县
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  内蒙古自治区 锡林郭勒盟 阿巴嘎旗
+HJ1B CCD2 HJ1B LEVEL2 84 NDI  湖北省 恩施土家族苗族自治州 鹤峰县
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  山西省 临汾市 尧都区
+HJ1B CCD2 HJ1B LEVEL2 13 NDI  内蒙古自治区 乌兰察布市 察哈尔右翼后旗
+HJ1B CCD2 HJ1B LEVEL2 19 NDI  山西省 忻州市 原平市
+HJ1B CCD2 HJ1B LEVEL2 69 NDI  Zabaykalsky Krai Kalarsky District 
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Zabaykalsky Krai Olovyanninsky District 
+HJ1B CCD2 HJ1B LEVEL2 24 NDI  Sakha Republic Olekminskiy u 
+HJ1B CCD2 HJ1B LEVEL2 18 NDI  广西壮族自治区 南宁市 邕宁区
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Baluchistan Sibi 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  Tashkent Bostanlik District 
+HJ1B CCD2 HJ1B LEVEL2 11 NDI  Karaganda region Shet District 
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Districts of Republican Subordination Rasht 
+HJ1B CCD2 HJ1B LEVEL2 34 NDI  Karaganda region Osakarov District 
+HJ1B CCD2 HJ1B LEVEL2 53 NDI  Tomsk Oblast Kargasoksky District 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  West Region Moiynkum District 
+HJ1B CCD2 HJ1B LEVEL2 77 NDI    
+HJ1B CCD2 HJ1B LEVEL2 8 NDI  Baghlan Nahrin 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  Baluchistan Khuzdar 
+HJ1B CCD2 HJ1B LEVEL2 71 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Pavlodar region ertis District 
+HJ1B CCD2 HJ1B LEVEL2 21 NDI  Paktika Sharan 
+HJ1B CCD2 HJ1B LEVEL2 27 NDI  Omsk Oblast Muromtsevsky District 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 海西蒙古族藏族自治州 格尔木市
+HJ1B CCD2 HJ1B LEVEL2 57 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 82 NDI  Khovsgol Tugul 
+HJ1B CCD2 HJ1B LEVEL2 25 NDI  西藏自治区 那曲地区 那曲县
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Irkutsk Oblast Nizhneudinsky District 
+HJ1B CCD2 HJ1B LEVEL2 64 NDI  Govi Altai Altai 
+HJ1B CCD2 HJ1B LEVEL2 70 NDI  甘肃省 酒泉市 阿克塞哈萨克族自治县
+HJ1B CCD2 HJ1B LEVEL2 17 NDI  Krasnoyarsk Krai Kezhemsky District 
+HJ1B CCD2 HJ1B LEVEL2 83 NDI  Zavkhan Aldar 
+HJ1B CCD2 HJ1B LEVEL2 80 NDI  Irkutsk Oblast Bratsky District 
+HJ1B CCD2 HJ1B LEVEL2 60 NDI  Trashigang Lumang 
+HJ1B CCD2 HJ1B LEVEL2 55 NDI  Kishoreganj Kuliarchar 
+HJ1B CCD2 HJ1B LEVEL2 31 NDI    
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B CCD2 HJ1B LEVEL2 69 NDI    
+HJ1B CCD2 HJ1B LEVEL2 99 NDI    
+HJ1B CCD2 HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 曲麻莱县
+HJ1B CCD2 HJ1B LEVEL2 70 NDI    
+HJ1B CCD2 HJ1B LEVEL2 68 NDI    
+HJ1B CCD2 HJ1B LEVEL2 45 NDI  西藏自治区 拉萨市 墨竹工卡县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 汕尾市 海丰县
+HJ1B CCD2 HJ1B LEVEL2 81 NDI  山东省 临沂市 蒙阴县
+HJ1B CCD2 HJ1B LEVEL2 58 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 47 NDI  江西省 九江市 彭泽县
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  辽宁省 朝阳市 建平县
+HJ1B CCD2 HJ1B LEVEL2 12 NDI  Amur Oblast Skovorodinsky District 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI  内蒙古自治区 通辽市 扎鲁特旗
+HJ1B CCD2 HJ1B LEVEL2 59 NDI  Sakha Republic g Neryungri 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  内蒙古自治区 呼伦贝尔市 鄂伦春自治旗
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  江西省 抚州市 乐安县
+HJ1B CCD2 HJ1B LEVEL2 92 NDI  安徽省 蚌埠市 淮上区
+HJ1B CCD2 HJ1B LEVEL2 0 NDI  内蒙古自治区 呼伦贝尔市 扎兰屯市
+HJ1B CCD2 HJ1B LEVEL2 15 NDI    
+HJ1B CCD2 HJ1B LEVEL2 7 NDI    
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Sarawak Serian 
+HJ1B CCD2 HJ1B LEVEL2 36 NDI    
+HJ1B CCD2 HJ1B LEVEL2 11 NDI    
+HJ1B CCD2 HJ1B LEVEL2 65 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI    
+HJ1B CCD2 HJ1B LEVEL2 19 NDI    
+HJ1B CCD2 HJ1B LEVEL2 16 NDI  广东省 河源市 龙川县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  Eastern Nairyah 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI  Najran Sharorah 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  Chahar Mahall and Bakhtiari Ardal 
+HJ1B CCD2 HJ1B LEVEL2 20 NDI    
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  Riyadh Al Aflaj 
+HJ1B CCD2 HJ1B LEVEL2 68 NDI  Eastern Ahsa 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 2 NDI  Esfahan Borkhar and Meymeh 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI  Alborz Province Khomeynishahr 
+HJ1B CCD2 HJ1B LEVEL2 4 NDI    
+HJ1B CCD2 HJ1B LEVEL2 1 NDI    
+HJ1B CCD2 HJ1B LEVEL2 61 NDI    
+HJ1B CCD2 HJ1B LEVEL2 100 NDI    
+HJ1B CCD2 HJ1B LEVEL2 86 NDI  Shan Pindaya 
+HJ1B CCD2 HJ1B LEVEL2 89 NDI  Bago Kyauktaga 
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 90 NDI  Kachin Mansi 
+HJ1B CCD2 HJ1B LEVEL2 3 NDI    
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 48 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 43 NDI  青海省 果洛藏族自治州 达日县
+HJ1B CCD2 HJ1B LEVEL2 41 NDI  西藏自治区 昌都地区 芒康县
+HJ1B CCD2 HJ1B LEVEL2 61 NDI  Kachin Machanbaw 
+HJ1B CCD2 HJ1B LEVEL2 10 NDI  甘肃省 张掖市 山丹县
+HJ1B CCD2 HJ1B LEVEL2 42 NDI  青海省 海南藏族自治州 兴海县
+HJ1B CCD2 HJ1B LEVEL2 9 NDI  Ovorkhangai Bogd 
+HJ1B CCD2 HJ1B LEVEL2 1 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD2 HJ1B LEVEL2 23 NDI  Irkutsk Oblast Kachugsky District 
+HJ1B CCD2 HJ1B LEVEL2 5 NDI  Bulgan Gurvanbulag 
+HJ1B CCD2 HJ1B LEVEL2 62 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Irkutsk Oblast Ust Kutsky District 
+HJ1B CCD2 HJ1B LEVEL2 40 NDI  Buryatia Republic Dzhidinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 73 NDI  新疆维吾尔自治区 哈密地区 哈密市
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  Irkutsk Oblast Chunsky District 
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  新疆维吾尔自治区 哈密地区 伊吾县
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  青海省 海西蒙古族藏族自治州 冷湖行政委员会
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Tyva Republic Todzhinsky District 
+HJ1B CCD1 HJ1B LEVEL2 76 NDI  Tyva Republic Erzinsky District 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Govi Altai Jargalan 
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 63 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI  江西省 九江市 修水县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 91 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI    
+HJ1B CCD1 HJ1B LEVEL2 61 NDI    
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 59 NDI  广东省 肇庆市 四会市
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  广东省 江门市 恩平市
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  黑龙江省 大兴安岭地区 漠河县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  山东省 菏泽市 郓城县
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  河北省 承德市 隆化县
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  内蒙古自治区 呼伦贝尔市 牙克石市
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  内蒙古自治区 兴安盟 阿尔山市
+HJ1B CCD1 HJ1B LEVEL2 46 NDI  湖北省 咸宁市 崇阳县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  湖南省 郴州市 安仁县
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  内蒙古自治区 赤峰市 巴林左旗
+HJ1B CCD1 HJ1B LEVEL2 7 NDI  河北省 沧州市 新华区
+HJ1B CCD1 HJ1B LEVEL2 60 NDI  河南省 信阳市 息县
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Sakha Republic Aldanskiy u 
+HJ1B CCD1 HJ1B LEVEL2 52 NDI  Amur Oblast Tyndinsky District 
+HJ1B CCD1 HJ1B LEVEL2 68 NDI  Rajasthan Jaisalmer 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  NWFP Kohistan 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  Gorno-Badakhshan Murghob 
+HJ1B CCD1 HJ1B LEVEL2 80 NDI  Punjab Bahawalpur 
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  South Kazakhstan region Iliyskiy 
+HJ1B CCD1 HJ1B LEVEL2 63 NDI  Punjab Jhelum 
+HJ1B CCD1 HJ1B LEVEL2 58 NDI  Gujarat Jamnagar 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Naryn Tien Shan 
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  East Kazakhstan region Semipalatenskiy district 
+HJ1B CCD1 HJ1B LEVEL2 34 NDI  Almaty Region Sarkand District 
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Tomsk Oblast Bakcharsky District 
+HJ1B CCD1 HJ1B LEVEL2 41 NDI  Novosibirsk Oblast Kolyvansky District 
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  Gujarat Kachchh 
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  Altai Krai Blagoveshchensky District 
+HJ1B CCD1 HJ1B LEVEL2 54 NDI  西藏自治区 昌都地区 类乌齐县
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 79 NDI  Irkutsk Oblast Zhigalovsky District 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Arkhangai Khotont 
+HJ1B CCD1 HJ1B LEVEL2 40 NDI  Irkutsk Oblast ekhirit Bulagatsky District 
+HJ1B CCD1 HJ1B LEVEL2 16 NDI  Irkutsk Oblast Katangsky District 
+HJ1B CCD1 HJ1B LEVEL2 23 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B CCD1 HJ1B LEVEL2 24 NDI  Bulgan Teshig 
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  Bayankhongor Khatansuudal 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  青海省 海北藏族自治州 祁连县
+HJ1B CCD1 HJ1B LEVEL2 14 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B CCD1 HJ1B LEVEL2 78 NDI    
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  Sagaing Mawlaik 
+HJ1B CCD1 HJ1B LEVEL2 72 NDI    
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Magway Sidoktaya 
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  西藏自治区 林芝地区 波密县
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 39 NDI  青海省 玉树藏族自治州 玉树县
+HJ1B CCD1 HJ1B LEVEL2 42 NDI  Sagaing Lahe 
+HJ1B CCD1 HJ1B LEVEL2 98 NDI    
+HJ1B CCD1 HJ1B LEVEL2 20 NDI  青海省 玉树藏族自治州 称多县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Amur Oblast Mazanovsky District 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI    
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  黑龙江省 绥化市 望奎县
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 60 NDI    
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  浙江省 绍兴市 嵊州市
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  福建省 宁德市 霞浦县
+HJ1B CCD1 HJ1B LEVEL2 64 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  吉林省 长春市 德惠市
+HJ1B CCD1 HJ1B LEVEL2 58 NDI    
+HJ1B CCD1 HJ1B LEVEL2 19 NDI  Amur Oblast Tambov 
+HJ1B CCD1 HJ1B LEVEL2 62 NDI  Khabarovsk Krai Ayano-Maysky District 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 53 NDI  辽宁省 本溪市 本溪满族自治县
+HJ1B CCD1 HJ1B LEVEL2 17 NDI    
+HJ1B CCD1 HJ1B LEVEL2 37 NDI  Kalimantan Tengah Murung Raya 
+HJ1B CCD1 HJ1B LEVEL2 95 NDI    
+HJ1B CCD1 HJ1B LEVEL2 69 NDI    
+HJ1B CCD1 HJ1B LEVEL2 45 NDI    
+HJ1B CCD1 HJ1B LEVEL2 100 NDI    
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Sarawak Belaga 
+HJ1B CCD1 HJ1B LEVEL2 55 NDI    
+HJ1B CCD1 HJ1B LEVEL2 97 NDI    
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Mehriz 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 0 NDI  Yazd Yazd 
+HJ1B CCD1 HJ1B LEVEL2 3 NDI  Eastern Ahsa 
+HJ1B CCD1 HJ1B LEVEL2 26 NDI  Abo Dhabi Al Gharbia 
+HJ1B CCD1 HJ1B LEVEL2 1 NDI  Fars Neyriz 
+HJ1B CCD1 HJ1B LEVEL2 9 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI  Hadramawt Rumah 
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
+HJ1B IRS HJ1B LEVEL2 2 NDI    
+HJ1B IRS HJ1B LEVEL2 32 NDI  广东省 湛江市 廉江市
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 39 NDI    
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 15 NDI    
+HJ1B IRS HJ1B LEVEL2 25 NDI  湖南省 娄底市 涟源市
+HJ1B IRS HJ1B LEVEL2 28 NDI  湖北省 襄阳市 枣阳市
+HJ1B IRS HJ1B LEVEL2 4 NDI  河北省 邢台市 邢台县
+HJ1B IRS HJ1B LEVEL2 21 NDI  湖南省 永州市 东安县
+HJ1B IRS HJ1B LEVEL2 2 NDI  内蒙古自治区 锡林郭勒盟 正蓝旗
+HJ1B IRS HJ1B LEVEL2 22 NDI  广西壮族自治区 贺州市 昭平县
+HJ1B IRS HJ1B LEVEL2 21 NDI  Sakha Republic g Neryungri 
+HJ1B IRS HJ1B LEVEL2 11 NDI  Dornod Khalkhgol 
+HJ1B IRS HJ1B LEVEL2 31 NDI  Zabaykalsky Krai Gazimuro-Zavodsky District 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Pavlodar region May District 
+HJ1B IRS HJ1B LEVEL2 16 NDI  South Kazakhstan region Pavlodarskiy 
+HJ1B IRS HJ1B LEVEL2 1 NDI  Talas Talas 
+HJ1B IRS HJ1B LEVEL2 18 NDI  Gorno-Badakhshan Roshtqal'a 
+HJ1B IRS HJ1B LEVEL2 22 NDI  Sind Sanghar 
+HJ1B IRS HJ1B LEVEL2 17 NDI  Novosibirsk Oblast Severny District 
+HJ1B IRS HJ1B LEVEL2 21 NDI  NWFP Dera Ismail Khan 
+HJ1B IRS HJ1B LEVEL2 4 NDI  Almaty Region Balkhash District 
+HJ1B IRS HJ1B LEVEL2 23 NDI  Sind Khairpur 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 34 NDI  Bayankhongor Orgil 
+HJ1B IRS HJ1B LEVEL2 25 NDI  Irkutsk Oblast Nizhneilimsky District 
+HJ1B IRS HJ1B LEVEL2 37 NDI  Buryatia Republic Okinsky District 
+HJ1B IRS HJ1B LEVEL2 13 NDI  青海省 海西蒙古族藏族自治州 都兰县
+HJ1B IRS HJ1B LEVEL2 15 NDI  内蒙古自治区 阿拉善盟 额济纳旗
+HJ1B IRS HJ1B LEVEL2 14 NDI  青海省 玉树藏族自治州 杂多县
+HJ1B IRS HJ1B LEVEL2 41 NDI  Coxs Bazar Naikhongchhari 
+HJ1B IRS HJ1B LEVEL2 27 NDI  Assam Sonitpur 
+HJ1B IRS HJ1B LEVEL2 21 NDI  西藏自治区 昌都地区 丁青县
+HJ1B IRS HJ1B LEVEL2 25 NDI    
+HJ1B IRS HJ1B LEVEL2 54 NDI    
+HJ1B IRS HJ1B LEVEL2 4 NDI  黑龙江省 大兴安岭地区 呼玛县
+HJ1B IRS HJ1B LEVEL2 8 NDI  福建省 漳州市 南靖县
+HJ1B IRS HJ1B LEVEL2 6 NDI  福建省 南平市 顺昌县
+HJ1B IRS HJ1B LEVEL2 16 NDI  辽宁省 阜新市 阜新蒙古族自治县
+HJ1B IRS HJ1B LEVEL2 33 NDI  江苏省 镇江市 句容市
+HJ1B IRS HJ1B LEVEL2 49 NDI  山东省 烟台市 莱阳市
+HJ1B IRS HJ1B LEVEL2 3 NDI  黑龙江省 齐齐哈尔市 建华区
+HJ1B IRS HJ1B LEVEL2 15 NDI  Amur Oblast Zeysky District 
+HJ1B IRS HJ1B LEVEL2 1 NDI    
+HJ1B IRS HJ1B LEVEL2 57 NDI    
+HJ1B IRS HJ1B LEVEL2 23 NDI  海南省 三沙市 三沙市市辖区
+HJ1B IRS HJ1B LEVEL2 10 

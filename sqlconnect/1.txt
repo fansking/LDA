@@ -1,0 +1,29 @@
+HJ1B CCD1 HJ1B LEVEL2 70 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 7 NDI    
+HJ1B CCD1 HJ1B LEVEL2 2 NDI    
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 84 NDI  Kanchanaburi Si Sawat Na Suan
+HJ1B CCD1 HJ1B LEVEL2 57 NDI  Tanintharyi Mergui 
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 31 NDI  四川省 攀枝花市 盐边县
+HJ1B CCD1 HJ1B LEVEL2 75 NDI  Sukhothai Si Satchanalai Ban Tuek
+HJ1B CCD1 HJ1B LEVEL2 71 NDI  云南省 普洱市 墨江哈尼族自治县
+HJ1B CCD1 HJ1B LEVEL2 10 NDI  Aceh Aceh Utara 
+HJ1B CCD1 HJ1B LEVEL2 87 NDI  Bokeo Meung 
+HJ1B CCD1 HJ1B LEVEL2 12 NDI  Khentii Delgerkhaan 
+HJ1B CCD1 HJ1B LEVEL2 28 NDI  四川省 攀枝花市 米易县
+HJ1B CCD1 HJ1B LEVEL2 48 NDI  四川省 雅安市 荥经县
+HJ1B CCD1 HJ1B LEVEL2 51 NDI  Omnogovi Manlai 
+HJ1B CCD1 HJ1B LEVEL2 32 NDI  Zabaykalsky Krai Krasnochikoysky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  Buryatia Republic Severo-Baykalsky District 
+HJ1B CCD1 HJ1B LEVEL2 90 NDI  Irkutsk Oblast Bodaybinsky District 
+HJ1B CCD1 HJ1B LEVEL2 11 NDI  Buryatia Republic Yeravninsky District 
+HJ1B CCD1 HJ1B LEVEL2 67 NDI  四川省 阿坝藏族羌族自治州 松潘县
+HJ1B CCD1 HJ1B LEVEL2 69 NDI  甘肃省 定西市 安定区
+HJ1B CCD1 HJ1B LEVEL2 6 NDI  内蒙古自治区 阿拉善盟 阿拉善左旗
+HJ1B CCD1 HJ1B LEVEL2 22 NDI  内蒙古自治区 巴彦淖尔市 乌拉特后旗
+HJ1B IRS HJ1B LEVEL2 41 NDI  Krasnoyarsk Krai Irbeysky District 
+HJ1B IRS HJ1B LEVEL2 36 NDI  Tyva Republic Todzhinsky District 
+HJ1B IRS HJ1B LEVEL2 20 NDI  Khovd Chandmani 
+HJ1B IRS HJ1B LEVEL2 21 NDI  新疆维吾尔自治区 吐鲁番地区 鄯善县
+HJ1B IRS HJ1B LEVEL2 37 NDI  新疆维吾尔自治区 巴音郭楞蒙古自治州 若羌县
